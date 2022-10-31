@@ -3,14 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/action_bestseller"
+        android:id="@+id/nav_books"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_menu_book_24"
         android:title="Books"
         app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/action_news"
+        android:id="@+id/nav_articles"
         android:enabled="true"
         android:icon="@drawable/ic_baseline_article_24"
         android:title="Articles"
